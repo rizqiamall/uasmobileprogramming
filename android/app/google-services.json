@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "33640260006",
+    "firebase_url": "https://restapi2-8790b-default-rtdb.firebaseio.com",
+    "project_id": "restapi2-8790b",
+    "storage_bucket": "restapi2-8790b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33640260006:android:d478638a7f3a255cdeaf67",
+        "android_client_info": {
+          "package_name": "com.example.review_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB25YoYDCGAh9HOA46w2tYLu5RfPkfRlkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
